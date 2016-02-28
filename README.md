@@ -13,13 +13,13 @@ You can use the script in other linux distributions at your own risk.
 
 ## Installation process
 
-1. Place the script spice.sh in the directory where you want to install the wok and kimchi plugins.
+1. Place the script installer.sh in the directory where you want to install the wok and kimchi plugins.
 2. Before running the script, please make sure you have access to the internet and activate your hardware virtualisation capabilities.
 3. Running the script:  
-  `$ sudo chmod +x spice.sh`   
-  `$ ./spice.sh`
-4. Reboot after installation 
-5. Before launching kimchi, make sure you open virt-manager and add some virtual machines.
+  `$ sudo chmod +x installer.sh`   
+  `$ ./installer.sh`
+4. Reboot after installation.
+5. Before launching Kimchi, make sure you open virt-manager and add some virtual machines.
 6. Launching Kimchi:  
-  `$ sudo /patch_to_install_dir/wok/src/wokd`
+  `$ sudo /path_to_install_dir/wok/src/wokd`
 7. Open https://localhost:8001 and use your system username and password for login.
