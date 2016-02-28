@@ -11,7 +11,7 @@ Supported Operating System so far:
 You can use the script in other linux distributions at your own risk. 
 
 
-## Installation process:
+## Installation process
 
 1. Place the script spice.sh in the directory where you want to install the wok and kimchi plugins.
 2. Before running the script, please make sure you have access to the internet and activate your hardware virtualisation capabilities.
